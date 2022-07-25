@@ -6,6 +6,7 @@ public class PracticeDomy {
 System.out.println("ram");
 		System.out.println("sita");
 		System.out.println("labkush");
+		System.out.println("bharat");
 	}
 
 }
